@@ -1,4 +1,4 @@
-<!-- # [CSS to CSSinJS for VS Code](url) -->
+# [CSS to CSSinJS for VS Code](https://marketplace.visualstudio.com/items?itemName=rishabh-rathod.css-to-js)
 
 > Provides conversion of CSS to CSSinJS.
 
