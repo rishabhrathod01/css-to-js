@@ -4,11 +4,11 @@
 
 > CSSinJS format is specific to JSS library format.
 
-<!-- ## Convert CSS in JS
+## Convert CSS in JS
 
-![demo](gifURL) -->
+![demo](https://github.com/Rishabh-Rathod/css-to-js/blob/master/demo.gif)
 
-## How to Use CSS Conversion
+## How to Use 
 
 1. Select some block of css code in a `javascript` or `typescript` file and
 
