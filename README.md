@@ -6,7 +6,7 @@
 
 ## Convert CSS in JS
 
-![demo](https://github.com/Rishabh-Rathod/css-to-js/blob/master/demo.gif)
+![demo](https://user-images.githubusercontent.com/53012197/93563270-2d1cbe80-f9a5-11ea-81eb-6644f4de2227.gif)
 
 ## How to Use 
 
