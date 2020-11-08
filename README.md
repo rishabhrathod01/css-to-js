@@ -5,7 +5,7 @@ Click ↑ to Install Vscode Extension (Please Read How to use section)
 
 * Provides conversion of CSS to CSSinJS.
 
-* CSSinJS format is specific to JSS library format for now (Will soon add support for styled components & Emotion)
+* CSSinJS format is specific to JSS library format for now (Will soon add support for styled components, tailwind & Emotion)
 
 * Supports css Pseudo Class (like :hover , :active ) which were missing in most of the solution.
 
